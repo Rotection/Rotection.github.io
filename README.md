@@ -1,17 +1,11 @@
-# Rotection
 
-Rotection is a project focused on keeping people safe online.
+  # Rotection Game Safety System
 
-## Goal
-Teach and protect users from:
-- scams
-- fake games
-- online threats and tricks
+  This is a code bundle for Rotection Game Safety System. The original project is available at https://www.figma.com/design/IF1JgmtCIX2ZHhGwQkgP8Y/Rotection-Game-Safety-System.
 
-## What Rotection Will Include
-- checks for suspicious content
-- easy tips for kids and parents
+  ## Running the code
 
-## Status
-Early development — building base structure.
+  Run `npm i` to install the dependencies.
 
+  Run `npm run dev` to start the development server.
+  
